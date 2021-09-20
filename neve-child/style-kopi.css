@@ -1,0 +1,30 @@
+/*
+Theme Name:   Protefolie neve child-theme
+ Theme URI:    
+ Description:  this is a Child Theme of neve
+ Author:       Line Bech
+ Author URI:   
+ Template:     neve
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  neve-child
+*/
+
+h1 {
+    font-size: 3em !important;
+    font-family: 'Josefin Sans' !important;
+    letter-spacing: 3px !important;
+}
+
+h2 {
+    font-size: 2em !important;
+    font-family: 'Kalam' !important;
+    letter-spacing: 2px !important;
+    color: #DA683C !important;
+}
+
+video.elementor-video {
+    width: 100%;
+}
